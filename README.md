@@ -1,6 +1,7 @@
 ## Olá! Eu sou Lucas Mezawak Kekligian
 
 - 🔭 Atualmente utilizando Tecnologias FullStack & Desenvolvendo sites utilizando Claude Code
+- 📚 Cursando UNIRP - Análise e Desenvolvimento de Sistemas (ADS)
 - 🌱 Estudando Python para Cibersegurança 
 - 📫 Meu Email : Lucaskekligian@gmail.com
 
